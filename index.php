@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <!DOCTYPE html>
 <html lang="pt-br">
   <head>
@@ -14,15 +14,4 @@
       <input type="submit" value="Entrar">
     </form>
   </body>
-=======
-<!doctype html>
-<html lang="pt-BR">
-<head>
-  <meta charset="UTF-8">
-  <title>Site TDS III</title>
-</head>
-<body>
-    <?php echo "<h1>Opa galerinha do site</h1>" ?>
-</body>
->>>>>>> 6b54fdec4142557c86c83da1d6ac8e26b0d6b985
 </html>
